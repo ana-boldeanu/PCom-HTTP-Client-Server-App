@@ -1,6 +1,6 @@
 // Boldeanu Ana-Maria
 // 321 CD
-// PCom - Tema 3
+// PCom - HTTP Client Server Application
 
 =========================== Cerinte implementate ===========================
 
